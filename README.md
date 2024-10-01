@@ -16,6 +16,8 @@ The data can be found [here](https://github.com/BriansIDP/CASEBench/blob/main/da
 "category": Category the query belongs to
 ```
 
+Note: This dataset is for review only as it includes queries from Sorry-bench and access to these queries must comply with the researchers' agreement and require granted access on HuggingFace. Accordingly, the anonymized link provided below is strictly for review purposes only. Upon publication, we will grant access to our dataset exclusively to users who have obtained permission to access the Sorry-bench dataset, thereby ensuring adherence to the original dataset's ethical guidelines.
+
 
 ## Results
 Please find the outputs from models in `exp/`
